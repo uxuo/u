@@ -1,6 +1,6 @@
-<a href="http://ok.3cm.us">ok.3cm.us</a>
+<a href="http://open.404.mn">open.404.mn</a>
 
-<a href="http://mgg.wild1.net">mgg.wild1.net</a>
+<a href="http://net.wild1.net">net.wild1.net</a>
 
 ...
 
