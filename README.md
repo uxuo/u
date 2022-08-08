@@ -4,9 +4,7 @@
 
 ---
 
-### 最新网址发布
-
-<a href="http://open.404.mn">open.404.mn</a>
+<a href="http://be.where2eat.be">be.where2eat.be</a>
 
 <a href="http://net.wild1.net">net.wild1.net</a>
 
