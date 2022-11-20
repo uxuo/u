@@ -4,11 +4,11 @@
 
 ---
 
-<a href="http://be.where2eat.be" target="_blank">be.where2eat.be</a>
+<a href="http://be.where2eat.be">be.where2eat.be</a>
 
-<a href="http://net.wild1.net" target="_blank">net.wild1.net</a>
+<a href="http://net.wild1.net">net.wild1.net</a>
 
-<a href="http://co.it4e.co" target="_blank">co.it4e.co</a>
+<a href="http://co.it4e.co">co.it4e.co</a>
 
 ...
 
